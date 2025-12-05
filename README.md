@@ -1,8 +1,8 @@
 <p align="center">
   <img src="images/kRDuEHQwTFipZVvSCEEtCQ_6iAg9LVHTzi5l-Ob3aaKYw.jpeg?raw=true" alt="Logotipo de IMHICIHU"/>
 </p>
-<br>
-</br>
+
+---
 
 ## Tech proposal
 
