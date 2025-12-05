@@ -1,5 +1,19 @@
-## Hi there 👋
+<p align="center">
+  <img src="images/kRDuEHQwTFipZVvSCEEtCQ_6iAg9LVHTzi5l-Ob3aaKYw.jpeg?raw=true" alt="Logotipo de IMHICIHU"/>
+</p>
+<br>
+</br>
 
+## Tech proposal
+
+Our [inner developments](https://enlacesimhicihu.vercel.app/) that involve several projects coined inside the institution
+
+  - photogrammetry
+  - book scanner
+  - ZOOM™ calendar web app
+  - IMHICIHU Book Library searcher webapp 
+  - gists
+  - .dotfiles 
 <!--
 **imhicihu/imhicihu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
