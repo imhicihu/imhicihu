@@ -8,10 +8,10 @@
 
 Our [inner developments](https://enlacesimhicihu.vercel.app/) that involve several projects coined inside the institution
 
-  - photogrammetry
-  - book scanner
+  - [photogrammetry](https://github.com/imhicihu/Augmented_Reality_Cemetery_experimental)
+  - [book scanner](https://github.com/imhicihu/Book-scanner)
   - ZOOM™ calendar web app
-  - IMHICIHU Book Library searcher webapp 
+  - [IMHICIHU Book Library searcher webapp](https://biblio-searcher-v2.vercel.app/) 
   - gists
   - .dotfiles 
 <!--
