@@ -10,10 +10,11 @@ Our [inner developments](https://enlacesimhicihu.vercel.app/) that involve sever
 
   - [photogrammetry](https://github.com/imhicihu/Augmented_Reality_Cemetery_experimental)
   - [book scanner](https://github.com/imhicihu/Book-scanner)
-  - ZOOM™ calendar web app
+  - [ZOOM™ calendar web app](https://github.com/imhicihu/Zoom-calendar)
   - [IMHICIHU Book Library searcher webapp](https://biblio-searcher-v2.vercel.app/) 
-  - gists
-  - .dotfiles 
+  - [gists](https://gist.github.com/imhicihu)
+  - [.dotfiles](https://github.com/imhicihu/dotfiles)
+  - _et alia_
 <!--
 **imhicihu/imhicihu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
