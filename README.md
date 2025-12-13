@@ -13,7 +13,7 @@
 | - [IMHICIHU Book Library searcher webapp](https://biblio-searcher-v2.vercel.app/)  | - [aplicación web buscador de libros IMHICIHU](https://biblio-searcher-v2.vercel.app/)  |
 | - [gists](https://gist.github.com/imhicihu) | - [gists](https://gist.github.com/imhicihu)
 | - [.dotfiles](https://github.com/imhicihu/dotfiles) | - [.dotfiles](https://github.com/imhicihu/dotfiles) |
-| - _et alia_ | - _et alia_ |
+| - _et alia_ |
 <!--
 **imhicihu/imhicihu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
