@@ -4,6 +4,12 @@
 
 ---
 
+<p align="center">
+<a href="mailto:imhicihu@gmail.com" title="Email Address"><code>imhicihu at gmail dot com</code></a> │ <a href="https://keybase.io/imhicihu/pgp_keys.asc?fingerprint=A88106274B865D25790F0D3D6967E0E795B2412B" title="PGP Public Key"><code>6967 E0E7 95B2 412B</code></a> │
+</p>
+
+---
+
 | Tech proposal | Propuesta tecnológica |
 |:--|:--|
 | Our inner developments that involve several projects coined inside the institution | Nuestros desarrollos internos que implican varios proyectos acuñados dentro de la institución |
