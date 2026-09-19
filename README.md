@@ -12,7 +12,7 @@
 
 | Tech proposal | Propuesta tecnológica |
 |:--|:--|
-| Our inner developments that involve several projects coined inside the institution | Nuestros desarrollos internos que implican varios proyectos acuñados dentro de la institución |
+| Inner developments that involve several projects coined inside the institution | Desarrollos internos que implican varios proyectos acuñados dentro de la institución |
 | - [photogrammetry](https://github.com/imhicihu/Augmented_Reality_Cemetery_experimental) | - [fotogrametría](https://github.com/imhicihu/Augmented_Reality_Cemetery_experimental) |
 | - [book scanner](https://github.com/imhicihu/Book-scanner) | - [escáner de libros](https://github.com/imhicihu/Book-scanner) |
 | - [ZOOM™ calendar web app](https://github.com/imhicihu/Zoom-calendar) | - [aplicación web calendario vía ZOOM™](https://github.com/imhicihu/Zoom-calendar) |
